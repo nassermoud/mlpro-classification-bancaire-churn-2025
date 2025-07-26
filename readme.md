@@ -22,8 +22,10 @@ La capacité à anticiper ces départs permet aux établissements financiers de 
 
 ```bash
 .
-├── data/                       # Données brutes (non versionnées)
-├── notebooks/
-│   └── classification-bank.ipynb  # Notebook principal
+├── .venv/
+├── data/
 ├── .gitignore
-└── README.md
+├── classification-bank.ipynb
+├── poetry.lock
+├── pyproject.toml
+└── readme.md
