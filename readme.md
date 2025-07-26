@@ -18,7 +18,7 @@ Ce projet vise à prédire si un client bancaire va **continuer à utiliser les 
 La capacité à anticiper ces départs permet aux établissements financiers de mettre en place des **stratégies de rétention client** plus efficaces.
 
 
-## 📁 Organisation du projet
+## 📁 Organisation du projet en cours d'amelioration
 
 ```bash
 .
